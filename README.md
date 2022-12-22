@@ -27,6 +27,8 @@
   <img align="center" alt="Jefferson-Slack" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg"/>
   <img align="center" alt="Jefferson-Jira" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
   <img align="center" alt="Jefferson-Confluence" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/>
+  <img align="center" alt="Jefferson-DotNet" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"/>
+  <img align="center" alt="Jefferson-C-sharp" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>          
   <div>
     <br/>
   </div>
